@@ -1,0 +1,16 @@
+{
+	"name": "react-test",
+	"version": "1.0.0",
+	"description": "",
+	"main": "app.js",
+	"dependencies": {
+		"axios": "^1.6.0"
+	},
+	"type": "module",
+	"scripts": {
+		"test": "macho",
+		"start": "node main.js"
+	},
+	"author": "",
+	"license": "ISC"
+}
